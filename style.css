@@ -3,5 +3,19 @@
         background-color: #ebbcba;
         font-size: 2rem;
     }
-
+/* desktop size */
 }
+@media screen and (max-width: 768px){
+    div {
+        background-color: #f2e9de;
+        font-size: 1rem;
+    }
+}
+/* ipad size */
+@media screen and (max-width: 375px){
+    div {
+        background-color: #9ccfd8;
+        font-size: 1rem;
+    }
+}
+/* iphone x size */
